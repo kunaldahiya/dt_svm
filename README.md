@@ -9,4 +9,4 @@ This README would normally document whatever steps are necessary to get your app
 
 Compile using : g++ -std=c++11 main.cpp pcdt_svm.h pcdt_svm.cpp metrices.cpp -o decision_tree -O2 -larmadillo -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_ml -lpthread -lopenblas
 
-Run using : ./decision tree# PCDT_SVM's README
+Run using : ./decision tree
